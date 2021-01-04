@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ttv218.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ttv218.github.io/static/js/main.133f7268.chunk.js",
+    "main.js.map": "/ttv218.github.io/static/js/main.133f7268.chunk.js.map",
+    "runtime-main.js": "/ttv218.github.io/static/js/runtime-main.9bbe8df6.js",
+    "runtime-main.js.map": "/ttv218.github.io/static/js/runtime-main.9bbe8df6.js.map",
+    "static/js/2.8451278e.chunk.js": "/ttv218.github.io/static/js/2.8451278e.chunk.js",
+    "static/js/2.8451278e.chunk.js.map": "/ttv218.github.io/static/js/2.8451278e.chunk.js.map",
+    "static/js/3.d9bf6c2a.chunk.js": "/ttv218.github.io/static/js/3.d9bf6c2a.chunk.js",
+    "static/js/3.d9bf6c2a.chunk.js.map": "/ttv218.github.io/static/js/3.d9bf6c2a.chunk.js.map",
+    "index.html": "/ttv218.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ttv218.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8451278e.chunk.js.LICENSE.txt": "/ttv218.github.io/static/js/2.8451278e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ttv218.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bbe8df6.js",
+    "static/js/2.8451278e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.133f7268.chunk.js"
+  ]
+}
